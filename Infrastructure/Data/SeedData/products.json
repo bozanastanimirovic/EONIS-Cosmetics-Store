@@ -1,0 +1,101 @@
+[
+  {
+    "Name": "Kylie Skin Foaming Face Wash",
+    "Description": "A gentle, yet effective foaming face wash with kiwi seed oil and vitamin C to nourish skin. Perfect for daily use.",
+    "Price": 24,
+    "PictureURL": "/images/products/kylie-facewash.png",
+    "Type": "Cleanser",
+    "Brand": "Kylie Skin",
+    "QuantityInStock": 150
+  },
+  {
+    "Name": "The Ordinary Niacinamide 10% + Zinc 1%",
+    "Description": "High-strength vitamin and mineral blemish formula with 10% pure Niacinamide and 1% Zinc PCA.",
+    "Price": 6,
+    "PictureURL": "/images/products/theordinary-niacinamide.png",
+    "Type": "Serum",
+    "Brand": "The Ordinary",
+    "QuantityInStock": 200
+  },
+  {
+    "Name": "Glossier Cloud Paint in 'Dusk'",
+    "Description": "A seamless, buildable gel-cream blush that's as easy to apply as it is to love. 'Dusk' is a brownish nude.",
+    "Price": 18,
+    "PictureURL": "/images/products/glossier-cloudpaint.png",
+    "Type": "Makeup",
+    "Brand": "Glossier",
+    "QuantityInStock": 85
+  },
+  {
+    "Name": "Mario Badescu Facial Spray with Aloe, Herbs and Rosewater",
+    "Description": "A refreshing, hydrating mist with a cult following. Revitalizes skin with a dewy, youthful glow.",
+    "Price": 7,
+    "PictureURL": "/images/products/mariobadescu-spray.png",
+    "Type": "Toner",
+    "Brand": "Mario Badescu",
+    "QuantityInStock": 300
+  },
+  {
+    "Name": "Laneige Lip Sleeping Mask",
+    "Description": "An overnight lip treatment that soothes and moisturizes for smoother, more supple lips.",
+    "Price": 22,
+    "PictureURL": "/images/products/laneige-lipmask.png",
+    "Type": "Treatment",
+    "Brand": "Laneige",
+    "QuantityInStock": 120
+  },
+  {
+    "Name": "Drunk Elephant T.L.C. Framboos Glycolic Night Serum",
+    "Description": "A high-tech AHA/BHA gel that resurfaces dull, congested skin for a smoother, more radiant complexion.",
+    "Price": 90,
+    "PictureURL": "/images/products/drunkelephant-serum.png",
+    "Type": "Serum",
+    "Brand": "Drunk Elephant",
+    "QuantityInStock": 45
+  },
+  {
+    "Name": "Paula's Choice Skin Perfecting 2% BHA Liquid Exfoliant",
+    "Description": "A gentle leave-on exfoliant that quickly unclogs pores, smooths wrinkles, and brightens and evens out skin tone.",
+    "Price": 32,
+    "PictureURL": "/images/products/paulaschoice-exfoliant.png",
+    "Type": "Exfoliant",
+    "Brand": "Paula's Choice",
+    "QuantityInStock": 75
+  },
+  {
+    "Name": "CeraVe Hydrating Facial Cleanser",
+    "Description": "A non-foaming, hydrating face wash developed with dermatologists to cleanse and moisturize the skin without stripping it.",
+    "Price": 15,
+    "PictureURL": "/images/products/cerave-cleanser.png",
+    "Type": "Cleanser",
+    "Brand": "CeraVe",
+    "QuantityInStock": 250
+  },
+  {
+    "Name": "Fenty Beauty Pro Filt'r Soft Matte Longwear Foundation",
+    "Description": "A soft matte, long-wear foundation with buildable, medium to full coverage that works on all skin tones.",
+    "Price": 38,
+    "PictureURL": "/images/products/fenty-foundation.png",
+    "Type": "Makeup",
+    "Brand": "Fenty Beauty",
+    "QuantityInStock": 95
+  },
+  {
+    "Name": "COSRX Advanced Snail 96 Mucin Power Essence",
+    "Description": "Formulated with 96% snail secretion filtrate, this essence helps to repair skin from dryness, aging, and breakouts.",
+    "Price": 25,
+    "PictureURL": "/images/products/cosrx-essence.png",
+    "Type": "Essence",
+    "Brand": "COSRX",
+    "QuantityInStock": 180
+  },
+  {
+    "Name": "Tatcha The Water Cream",
+    "Description": "An oil-free, anti-aging water cream that releases a burst of hydration to help plump and refine the skin.",
+    "Price": 68,
+    "PictureURL": "/images/products/tatcha-watercream.png",
+    "Type": "Moisturizer",
+    "Brand": "Tatcha",
+    "QuantityInStock": 60
+  }
+]
